@@ -1,0 +1,26 @@
+    /* .popular-item {
+        width: 100vw;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(140px, 0.2fr));
+        justify-content: center;
+    }
+     */
+    .popular h1 {
+        color: blue;
+        text-align: center;
+    }
+    
+    /* .popular {
+        width: 100%;
+        margin-left: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    } */
+    
+    .popular hr {
+        height: 6px;
+        width: 90%;
+        border-radius: 10px;
+        background-color: rgb(127, 58, 255);
+    }
