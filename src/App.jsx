@@ -12,9 +12,8 @@ function App() {
   return (
     <>
     <BrowserRouter>
-      <Navbar></Navbar>
+      <Navbar basename="/bigKart_E-commerce_Frontend_Project/"></Navbar>
       <Routes>
-
             <Route path="/" element={<> <Tabs/><Footer></Footer> </>} replace></Route>
       </Routes>
     </BrowserRouter>
