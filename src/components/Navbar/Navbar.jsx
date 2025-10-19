@@ -31,7 +31,7 @@ function LoginModal({ onClose }) {
     <div  className="navbar sticky top-0 z-50 bg-warning shadow-sm w-full">
       <div className="flex-1 flex ">
         <img src={logo} alt="" className="w-12 sm:w-10 md:w-12 lg:w-14 rounded-full ring ring-primar" />
-        <Link to={"/"} className="btn btn-ghost text-xl hover:border-0 active:bg-transparent hover:bg-transparent">BigKart</Link>
+        <Link to={"/bigKart_E-commerce_Frontend_Project/"} className="btn btn-ghost text-xl hover:border-0 active:bg-transparent hover:bg-transparent">BigKart</Link>
       </div>
 
 
